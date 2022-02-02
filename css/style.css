@@ -1,0 +1,32 @@
+.nav-bg-color{
+    background-color: palevioletred;
+}
+.left-column{
+    background-color: plum;
+}
+.right-column{
+    background-color: powderblue;
+}
+.footer{
+    background-color: royalblue;
+
+}
+.jumbotron{
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 15px;
+}
+.jumb-exm{
+    color: whitesmoke;
+    text-align: center;
+     padding: 15px;
+}
+.button{
+    margin-top: 10px;
+}
+.para::first-letter {
+    font-size: 200%;
+    color: #5e264b;
+    font-family: fantasy;
+  }
